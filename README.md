@@ -1,13 +1,13 @@
-# :snowflake: Tanapat Oumphed
+# ❄️ Tanapat Oumphed
 
 <div align="center">
 
 <img src="IMG_20251228_145326.png" width="180">
 
-<h2>:man_student: Information Technology Student</h2>
+<h2>👨‍🎓 Information Technology Student</h2>
 
 <p>
-:snowflake: Student • Developer • Designer
+❄️ Student • Developer • Designer
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6EC6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub;Information+Technology+Student;Future+Web+Developer;Graphic+Designer;Always+Learning+New+Things" />
@@ -18,31 +18,31 @@
 
 ---
 
-# :cloud_snow: About Me
+# 🌨️ About Me
 
-:wave: สวัสดีครับ ผม **ธนภัทร อุ่มเพชร (Jump)**
+👋 สวัสดีครับ ผม **ธนภัทร อุ่มเพชร (Jump)**
 
-:mortar_board: นักศึกษาปริญญาตรี สาขา **เทคโนโลยีสารสนเทศ**
+🎓 นักศึกษาปริญญาตรี สาขา **เทคโนโลยีสารสนเทศ**
 
-:computer: สนใจด้านการพัฒนาเว็บไซต์ การเขียนโปรแกรม และการออกแบบกราฟิก
+💻 สนใจด้านการพัฒนาเว็บไซต์ การเขียนโปรแกรม และการออกแบบกราฟิก
 
-:rocket: มุ่งมั่นพัฒนาทักษะด้านเทคโนโลยีและเรียนรู้สิ่งใหม่ ๆ อยู่เสมอ
+🚀 มุ่งมั่นพัฒนาทักษะด้านเทคโนโลยีและเรียนรู้สิ่งใหม่ ๆ อยู่เสมอ
 
 ---
 
-# :dart: Skills
+# 🎯 Skills
 
 | Skill | Level |
 |--------|--------|
-| HTML | :star::star::star: |
-| CSS | :star::star: |
-| JavaScript | :star::star: |
-| GitHub | :star: |
-| Graphic Design | :star::star::star: |
+| HTML | ⭐⭐⭐ |
+| CSS | ⭐⭐ |
+| JavaScript | ⭐⭐ |
+| GitHub | ⭐ |
+| Graphic Design | ⭐⭐⭐ |
 
 ---
 
-# :tools: Technology Stack
+# 🛠️ Technology Stack
 
 <div align="center">
 
@@ -52,42 +52,42 @@
 
 ---
 
-# :rocket: My Interests
+# 🚀 My Interests
 
-- :computer: Web Development
-- :video_game: Game Development
-- :art: Graphic Design
-- :snowflake: Winter Theme Design
-- :books: Learning New Technology
-- :globe_with_meridians: UI / UX Design
-
----
-
-# :globe_with_meridians: Links
-
-### :link: GitHub Profile
-
-:arrow_right: https://github.com/JoTnp
-
-### :earth_africa: GitHub Page
-
-:arrow_right: https://tanapat-jump.github.io
+- 💻 Web Development
+- 🎮 Game Development
+- 🎨 Graphic Design
+- ❄️ Winter Theme Design
+- 📚 Learning New Technology
+- 🌐 UI / UX Design
 
 ---
 
-# :mailbox: Contact
+# 🌐 Links
 
-:e_mail: Email : tanapatoumphed@gmail.com
+### 🔗 GitHub Profile
 
-:globe_with_meridians: Website : https://tanapat-jump.github.io
+➡️ https://github.com/JoTnp
 
-:cat: GitHub : https://github.com/JoTnp
+### 🌍 GitHub Page
+
+➡️ https://tanapat-jump.github.io
+
+---
+
+# 📫 Contact
+
+📧 Email : tanapatoumphed@gmail.com
+
+🌐 Website : https://tanapat-jump.github.io
+
+🐱 GitHub : https://github.com/JoTnp
 
 ---
 
 <div align="center">
 
-:snowflake: Keep Learning • Keep Growing :snowflake:
+❄️ Keep Learning • Keep Growing ❄️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=150&section=footer"/>
 
