@@ -91,7 +91,7 @@ a:hover{
 # 🎯 Skills
 
 <div align="center">
-
+<table>
 | <font color ="Black"> Skill </font>| <font color ="Black"> Level </font>|
 |--------|--------|
 | <font color ="Black"> HTML </font>| ⭐⭐⭐ |
@@ -99,7 +99,7 @@ a:hover{
 | <font color ="Black"> JavaScript </font>| ⭐⭐ |
 | <font color ="Black"> GitHub </font>| ⭐ |
 | <font color ="Black"> Graphic Design </font>| ⭐⭐⭐ |
-
+</table>
 </div>
 
 ---
