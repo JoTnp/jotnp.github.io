@@ -61,15 +61,12 @@ table {
     width: 100%;
     border-collapse: collapse;
     color: white;
-    margin: 0 auto;
-    text-align: center;
 }
 
 th {
     background-color: #1e293b;
     color: #6EC6FF;
     padding: 12px;
-    text-align: center;
 }
     
 </style>
@@ -106,7 +103,6 @@ th {
 
 # 🎯 Skills
 
-<div align="center">
 <table>
   <tr>
     <th>Skill</th>
@@ -125,7 +121,6 @@ th {
     <th>⭐</th>
   </tr>
 </table>
-</div>
 
 ---
 
