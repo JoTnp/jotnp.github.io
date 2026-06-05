@@ -70,7 +70,7 @@ th {
 }
 
 img {
-    border-radius: 50%;
+    border-radius: 15px;
 }
     
 </style>
