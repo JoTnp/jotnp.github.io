@@ -69,6 +69,7 @@ th {
     background-color: #1e293b;
     color: #6EC6FF;
     padding: 12px;
+    text-align: center;
 }
     
 </style>
