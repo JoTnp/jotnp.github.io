@@ -1,5 +1,3 @@
-# ❄️ Tanapat Oumphed
-
 <div align="center">
 
 <img src="IMG_20251228_145326.png" width="180">
