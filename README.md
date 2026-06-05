@@ -106,6 +106,7 @@ th {
 
 # 🎯 Skills
 
+<div align="center">
 <table>
   <tr>
     <th>Skill</th>
@@ -124,6 +125,7 @@ th {
     <th>⭐</th>
   </tr>
 </table>
+</div>
 
 ---
 
