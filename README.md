@@ -30,12 +30,6 @@ h1{
     margin-bottom:30px;
 }
 
-h2{
-    color:#38bdf8;
-    border-left:5px solid #38bdf8;
-    padding-left:10px;
-}
-
 .card{
     background:rgba(255,255,255,0.08);
     padding:20px;
