@@ -61,12 +61,15 @@ table {
     width: 100%;
     border-collapse: collapse;
     color: white;
+    margin: 0 auto;
 }
 
-th {
+th, td {
     background-color: #1e293b;
     color: #6EC6FF;
     padding: 12px;
+    border: 1px solid #ccc;
+    text-align: center;
 }
 
 img {
@@ -151,13 +154,11 @@ img {
 
 # 🌐 Links
 
-### 🔗 GitHub Profile
-
-➡️ <a href="https://jotnp.github.io/">jotnp.github.io</a>
-
 ### 🌍 GitHub Page
 
-➡️ <a href="https://jotnp.github.io/">jotnp.github.io</a>
+➡️ <a href="https://jotnp.github.io/IOT/">IOT (Internet of Things)</a>
+➡️ <a href="https://jotnp.github.io/Framework/">Framework</a>
+➡️ <a href="https://jotnp.github.io/Cloud-Computing/">Cloud-Computing</a>
 
 ---
 
@@ -165,9 +166,7 @@ img {
 
 📧 Email : tnpoumphed@gmail.com
 
-🌐 Website : <a href="https://jotnp.github.io/">jotnp.github.io</a>
-
-🐱 GitHub : <a href="https://jotnp.github.io/">jotnp.github.io</a>
+🐱 GitHub : <a href="https://jotnp.github.io/">Profile</a>
 
 ---
 
