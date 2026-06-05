@@ -92,13 +92,21 @@ a:hover{
 
 <div align="center">
 <table>
-| <font color ="Black"> Skill </font>| <font color ="Black"> Level </font>|
-|--------|--------|
-| <font color ="Black"> HTML </font>| ⭐⭐⭐ |
-| <font color ="Black"> CSS </font>| ⭐⭐ |
-| <font color ="Black"> JavaScript </font>| ⭐⭐ |
-| <font color ="Black"> GitHub </font>| ⭐ |
-| <font color ="Black"> Graphic Design </font>| ⭐⭐⭐ |
+  <tr>
+    <th>Skill</th>
+    <th>Level</table></th>
+  </tr>
+    <tr>
+    <th>HTML</th>
+    <th>⭐⭐⭐</table></th>
+  </tr>
+    <tr>
+    <th>CSS</th>
+    <th>⭐⭐</table></th>
+  </tr>
+    <tr>
+    <th>GitHub</th>
+    <th>⭐</table></th>
 </table>
 </div>
 
