@@ -68,12 +68,16 @@ th {
     color: #6EC6FF;
     padding: 12px;
 }
+
+img {
+    border-radius: 50%;
+}
     
 </style>
 
 <div align="center">
 
-<img src="IMG_20251228_145326.png" width="180">
+<img src="IMG_20251228_145326.png" width="180" >
 
 <h2>👨‍🎓 Information Technology Student</h2>
 
@@ -170,7 +174,5 @@ th {
 <div align="center">
 
 ❄️ Keep Learning • Keep Growing ❄️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=150&section=footer"/>
 
 </div>
