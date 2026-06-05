@@ -61,6 +61,8 @@ table {
     width: 100%;
     border-collapse: collapse;
     color: white;
+    margin: 0 auto;
+    text-align: center;
 }
 
 th {
