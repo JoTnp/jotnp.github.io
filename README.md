@@ -67,21 +67,21 @@
 
 ### 🔗 GitHub Profile
 
-➡️ https://github.com/JoTnp
+➡️ <a href="https://jotnp.github.io/">jotnp.github.io</a>
 
 ### 🌍 GitHub Page
 
-➡️ https://tanapat-jump.github.io
+➡️ <a href="https://jotnp.github.io/">jotnp.github.io</a>
 
 ---
 
 # 📫 Contact
 
-📧 Email : tanapatoumphed@gmail.com
+📧 Email : tnpoumphed@gmail.com
 
-🌐 Website : https://tanapat-jump.github.io
+🌐 Website : <a href="https://jotnp.github.io/"></a>
 
-🐱 GitHub : https://github.com/JoTnp
+🐱 GitHub : <a href="https://jotnp.github.io/"></a>
 
 ---
 
