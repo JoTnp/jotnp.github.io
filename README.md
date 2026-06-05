@@ -96,17 +96,18 @@ a:hover{
     <th>Skill</th>
     <th>Level</th>
   </tr>
-    <tr>
+  <tr>
     <th>HTML</th>
     <th>⭐⭐⭐</th>
   </tr>
-    <tr>
+  <tr>
     <th>CSS</th>
     <th>⭐⭐</th>
   </tr>
-    <tr>
-    <th>GitHub</th>
+  <tr>
+    <th>Github</th>
     <th>⭐</th>
+  </tr>
 </table>
 </div>
 
