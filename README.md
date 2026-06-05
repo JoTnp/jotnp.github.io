@@ -79,9 +79,9 @@
 
 📧 Email : tnpoumphed@gmail.com
 
-🌐 Website : <a href="https://jotnp.github.io/"></a>
+🌐 Website : <a href="https://jotnp.github.io/">jotnp.github.io</a>
 
-🐱 GitHub : <a href="https://jotnp.github.io/"></a>
+🐱 GitHub : <a href="https://jotnp.github.io/">jotnp.github.io</a>
 
 ---
 
