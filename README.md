@@ -56,6 +56,19 @@ a:hover{
     margin-top:40px;
     color:#94a3b8;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+}
+
+th {
+    background-color: #1e293b;
+    color: #6EC6FF;
+    padding: 12px;
+}
+    
 </style>
 
 <div align="center">
