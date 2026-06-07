@@ -80,7 +80,7 @@ img {
 
 <div align="center">
 
-<img src="images/profile.jpg" width="180" >
+<img src="IMG/profile.png" width="180" >
 
 <h2>👨‍🎓 Information Technology Student</h2>
 
