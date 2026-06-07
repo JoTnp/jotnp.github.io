@@ -158,7 +158,7 @@ img {
 
 ➡️ <a href="https://jotnp.github.io/IoT/">IoT (Internet of Things)</a><br>
 ➡️ <a href="https://jotnp.github.io/Framework/">Framework</a><br>
-➡️ <a href="https://jotnp.github.io/Cloud-Computing/">Cloud-Computing</a>
+➡️ <a href="https://jotnp.github.io/Function/">Function</a>
 
 ---
 
