@@ -80,7 +80,7 @@ img {
 
 <div align="center">
 
-<img src="IMG/project.jpg" width="350" >
+<img src="IMG/project.jpg" width="750" >
 
 
 </div>
